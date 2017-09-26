@@ -3,7 +3,7 @@ import os
 import sys
 
 # hello how you doing
-
+# i am great bhai 
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "website.settings")
 
